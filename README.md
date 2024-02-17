@@ -1,4 +1,4 @@
-### Hi there, I'm [JAMIE BURSEY] 👋
+### Hi there, I'm JAMIE BURSEY 👋
 
 #### 🏒 Sports Enthusiast | 💻 Tech Aficionado | 🚀 Web App Developer
 
