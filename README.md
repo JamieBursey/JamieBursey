@@ -31,7 +31,7 @@
 
 📌 **What I'm Up To:**
 - 🔍 Currently working on enhancing the user experience of my Sports Betting App.
-- 📚 Exploring [specific technology or field in tech] to bring more innovation to my projects.
+- 📚 Exploring Node.js and Express to bring more innovation to my projects.
 
 ---
 
