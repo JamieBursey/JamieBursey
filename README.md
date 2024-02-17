@@ -12,7 +12,7 @@
 ---
 
 🌟 **My Projects:**
-- 📈 **Sports Betting App:** A dynamic web application built with React. This project reflects my interest in sports analytics and betting strategies. It's not just about the win; it's about understanding the game and its nuances.
+- 📈 **Sports Betting App:** This isn't just another sports betting app; it's a trip down memory lane, bringing back the fun and excitement of friendly wagers made on the couch during our youth. Built with React, this app allows users to create custom bets with friends, whether it's for a cup of coffee, a treat from Tim Hortons, or other personal stakes. It's about reliving those thrilling moments of childhood bets, but now with the convenience and connection despite the distances adulthood often brings. This project is a blend of my love for sports, technology, and the nostalgia of simpler times.
 - 🏒 **Hockey Sales NL:** My debut project in JavaScript, designed to help hockey fans in Newfoundland find the best deals on gear. This app simplifies the search for quality hockey equipment, ensuring you're always game-ready.
 
 ---
